@@ -1,0 +1,25 @@
+{
+  "name": "sfunge",
+  "version": "0.2.0",
+  "description": "Two-dimensional logic flow in javascript",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node test/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyeonuPark/sFunge.js.git"
+  },
+  "keywords": [
+    "funge"
+  ],
+  "author": "HyeonuPark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyeonuPark/sFunge.js/issues"
+  },
+  "homepage": "https://github.com/HyeonuPark/sFunge.js#readme",
+  "dependencies": {
+    "promise-emitter": "^1.2.2"
+  }
+}
